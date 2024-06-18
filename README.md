@@ -10,6 +10,7 @@
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.terraform.io%2Fv2%2Fprovider-versions%2F55330&query=%24.data.attributes.tag&label=Terraform%20Provider)
 
+![GitHub Release](https://img.shields.io/github/v/release/dbsnapper/install-dbsnapper-agent-action?label=Github%20Action%20-%20Install%20DBSnapper%20Agent)
 
 DBSnapper allows development teams to safely develop against production data and use it for real-world development, testing, and model training. Create Snapshots of databases (Subset snapshots if needed), Sanitize them for development use, and Share them with your team.
 
@@ -19,11 +20,10 @@ DBSnapper allows development teams to safely develop against production data and
 - [DBSnapper Agent Releases](https://github.com/dbsnapper/dbsnapper/releases)
 
 ## Integrations
+
 - [Terraform Provider](https://registry.terraform.io/providers/dbsnapper/dbsnapper/latest)
 - [Github Action - Install DBSnapper Agent](https://github.com/marketplace/actions/install-dbsnapper-agent)
 - [OKTA OIDC SSO Installation](https://docs.dbsnapper.com/dbsnapper-cloud/sso/sso-okta-oidc/)
-
-
 
 ## Documentation
 
