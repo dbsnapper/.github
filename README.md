@@ -22,6 +22,13 @@ DBSnapper allows development teams to safely develop against production data and
 - [Sign Up for DBSnapper](https://app.dbsnapper.com/sign_up)
 - [DBSnapper Agent Releases](https://github.com/dbsnapper/dbsnapper/releases)
 
+## Architecture
+<p align="center" class="img-box">
+  <img src="https://docs.dbsnapper.com/static/dbs-architecture.jpg?v=3&s=200" height="300" alt="DBSnapper Architecture">
+  <br/>
+  <small>DBSnapper Architecture Overview</small>
+</p>
+
 ## Integrations and Extensions
 - [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=DBSnapper.vscode-dbsnapper)
 - [Terraform Provider](https://registry.terraform.io/providers/dbsnapper/dbsnapper/latest)
